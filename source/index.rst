@@ -22,6 +22,7 @@ ROSPug
    docs/9.SLAM_Mapping&Autonomous_Navigation_Course.md
    docs/10.ROS+Deep_Learning_Course.md
    docs/Appendix.md
+   Download <https://drive.google.com/drive/folders/1SQKUBtdXYo_leZB2DotGxmTNzf3hldAO?usp=sharing>
 
 
 
